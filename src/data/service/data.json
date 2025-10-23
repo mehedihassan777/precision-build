@@ -1,0 +1,138 @@
+[
+    {
+        "id": "1",
+        "icon": "icon-wrench-house",
+        "image": "/images/services/2-1.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Renovation Services",
+        "desc": "Transform your home with our professional renovation services. Whether it's a kitchen remodel, bathroom upgrade, or a complete home makeover, we bring creativity and expertise to every project."
+    },
+    {
+        "id": "2",
+        "icon": "icon-electrical",
+        "image": "/images/services/2-2.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Electrical Services",
+        "desc": "Our licensed electricians provide safe, reliable electrical services, including installations, repairs, upgrades, and full system troubleshooting to ensure your home's electrical safety."
+    },
+    {
+        "id": "3",
+        "icon": "icon-pipe",
+        "image": "/images/services/2-3.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Plumbing Services",
+        "desc": "From fixing leaks to installing new fixtures, our experienced plumbers handle all types of plumbing repairs and installations. We ensure efficient and long-lasting solutions for your home."
+    },
+    {
+        "id": "4",
+        "icon": "icon-air",
+        "image": "/images/services/2-4.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "HVAC Services",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "5",
+        "icon": "icon-paint",
+        "image": "/images/services/2-5.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Painting and Drywall",
+        "desc": "Refresh your home with our professional painting and drywall services, delivering high-quality finishes for both interiors and exteriors, tailored to your design preferences and style."
+    },
+    {
+        "id": "6",
+        "icon": "icon-roof",
+        "image": "/images/services/2-6.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Roofing Services",
+        "desc": "Enhance your home's protection and curb appeal with our expert roofing services, including new installations, leak repairs, replacements, and inspections to keep your roof in top condition."
+    },
+    {
+        "id": "7",
+        "icon": "icon-pipe-leak",
+        "image": "/images/services/2-1.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Leak Detection",
+        "desc": "Transform your home with our professional renovation services. Whether it's a kitchen remodel, bathroom upgrade, or a complete home makeover, we bring creativity and expertise to every project."
+    },
+    {
+        "id": "8",
+        "icon": "icon-pipe-oval",
+        "image": "/images/services/2-2.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Drain Cleaning",
+        "desc": "Our licensed electricians provide safe, reliable electrical services, including installations, repairs, upgrades, and full system troubleshooting to ensure your home's electrical safety."
+    },
+    {
+        "id": "9",
+        "icon": "icon-spanner",
+        "image": "/images/services/2-3.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Pipe Installation",
+        "desc": "From fixing leaks to installing new fixtures, our experienced plumbers handle all types of plumbing repairs and installations. We ensure efficient and long-lasting solutions for your home."
+    },
+    {
+        "id": "10",
+        "icon": "icon-heater",
+        "image": "/images/services/2-4.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Heater Installation",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "11",
+        "icon": "icon-plunger",
+        "image": "/images/services/2-5.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Toilet Repair",
+        "desc": "Refresh your home with our professional painting and drywall services, delivering high-quality finishes for both interiors and exteriors, tailored to your design preferences and style."
+    },
+    {
+        "id": "12",
+        "icon": "icon-tap",
+        "image": "/images/services/2-6.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Sewer Services",
+        "desc": "Enhance your home's protection and curb appeal with our expert roofing services, including new installations, leak repairs, replacements, and inspections to keep your roof in top condition."
+    },
+    {
+        "id": "13",
+        "icon": "icon-tap",
+        "image": "/images/services/3-1.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "AC Installation",
+        "desc": "Quickly identify and fix leaks to prevent water damage and costly repairs."
+    },
+    {
+        "id": "14",
+        "icon": "icon-tap",
+        "image": "/images/services/3-2.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "HVAC Maintenance",
+        "desc": "Regular maintenance and tune-ups to improve efficiency & extend the lifespan of your HVAC system."
+    },
+    {
+        "id": "15",
+        "icon": "icon-tap",
+        "image": "/images/services/3-3.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Heating Repair",
+        "desc": "Quickly identify and fix leaks to prevent water damage and costly repairs."
+    },
+    {
+        "id": "16",
+        "icon": "icon-tap",
+        "image": "/images/services/3-4.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Emergency Repair",
+        "desc": "Regular maintenance and tune-ups to improve efficiency & extend the lifespan of your HVAC system."
+    },
+    {
+        "id": "17",
+        "icon": "icon-tap",
+        "image": "/images/services/3-2.jpg",
+        "thumbImage": "/images/services/detail/bg_thumb.jpg",
+        "title": "Heating Repair",
+        "desc": "Quickly identify and fix leaks to prevent water damage and costly repairs."
+    }
+]

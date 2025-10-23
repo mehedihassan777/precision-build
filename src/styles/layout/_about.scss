@@ -1,0 +1,27 @@
+/* about */ 
+.about {
+    &.style-four {
+        .btn_play {
+            .txt {
+                animation: circleScroll 30s linear infinite;
+                
+                span {
+                    position: absolute;
+                    left: 50%;
+                    transform-origin: 0 3.5rem;
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+}
+
+@keyframes circleScroll {
+    0% {
+      transform: translate(-50%, -50%) rotate(0);
+    }
+  
+    100% {
+      transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }

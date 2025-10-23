@@ -1,0 +1,16 @@
+/* Testimonials */ 
+.testimonials {
+    &_img {
+        &.active {
+            visibility: visible;
+            opacity: 1;
+        }
+    }
+
+    &.style-orange {
+        .tag {
+            background-color: rgba($color: $orange, $alpha: 0.1);
+            color: $orange;
+        }
+    }
+}

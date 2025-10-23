@@ -1,0 +1,45 @@
+/* faqs */
+.faqs {
+    &_item {
+        &:last-child {
+            border-bottom: none;
+        }
+        
+        .icon_arrow {
+            position: relative;
+
+            &_minus {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                opacity: 0;
+                transition: opacity .3s ease;
+            }
+        }
+
+        .answer {
+            overflow: hidden;
+            max-height: 0;
+            margin-top: 0;
+            transition: max-height .5s ease, margin-top .5s ease;
+        }
+
+        &.active {
+            .icon_arrow {
+                &_plus {
+                    opacity: 0;
+                }
+                
+                &_minus {
+                    opacity: 1;
+                }
+            }
+
+            .answer {
+                max-height: 250px;
+                margin-top: 1rem;
+            }
+        }
+    }
+}

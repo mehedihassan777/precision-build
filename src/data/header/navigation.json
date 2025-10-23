@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Home",
+    "to": "/"
+  },
+  {
+    "title": "Services",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Renovation Services",
+        "to": "/services/renovation-services",
+        "desc": "Transform your home with our professional renovation services. Whether it’s a kitchen remodel, a bathroom upgrade, or a complete home makeover, our team brings your vision to life with precision and care.",
+        "icon": "icon-wrench-house"
+      },
+      {
+        "title": "Electrical Services",
+        "to": "/services/electrical-services",
+        "desc": "Our licensed electricians provide safe, reliable electrical services, including installations, repairs, upgrades, and inspections to ensure your home’s electrical systems are efficient and up-to-code.",
+        "icon": "icon-electrical"
+      },
+      {
+        "title": "Plumbing Services",
+        "to": "/services/plumbing-services",
+        "desc": "From fixing leaks to installing new fixtures, our experienced plumbers handle all types of plumbing projects, ensuring dependable solutions for both minor repairs and major installations.",
+        "icon": "icon-pipe"
+      },
+      {
+        "title": "HVAC Services",
+        "to": "/services/hvac-services",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions tailored to your home’s needs, keeping your family comfortable in every season.",
+        "icon": "icon-air"
+      },
+      {
+        "title": "Painting and Drywall",
+        "to": "/services/painting-and-drywall",
+        "desc": "Refresh your home with our professional painting and drywall services, delivering high-quality finishes that enhance your space’s aesthetic appeal and durability.",
+        "icon": "icon-paint"
+      },
+      {
+        "title": "Roofing Services",
+        "to": "/services/roofing-services",
+        "desc": "Enhance your home’s protection and curb appeal with our expert roofing services, including new installations, repairs, and inspections to ensure long-lasting protection and beauty for your property.",
+        "icon": "icon-roof"
+      }
+    ]
+  },
+  {
+    "title": "Blog",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Blog default",
+        "to": "/blog/default"
+      },
+      {
+        "title": "Blog Grid",
+        "to": "/blog/grid"
+      },
+      {
+        "title": "Blog List",
+        "to": "/blog/list"
+      },
+      {
+        "title": "Blog Details 1",
+        "to": "/blog/detail1"
+      },
+      {
+        "title": "Blog Details 2",
+        "to": "/blog/detail2"
+      }
+    ]
+  },
+  {
+    "title": "Pages",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "about Us",
+        "to": "/pages/about-us"
+      },
+      {
+        "title": "our services",
+        "to": "/pages/our-services"
+      },
+      {
+        "title": "our projects 1",
+        "to": "/pages/our-projects1"
+      },
+      {
+        "title": "our projects 2",
+        "to": "/pages/our-projects2"
+      },
+      {
+        "title": "project details",
+        "to": "/pages/project-details"
+      },
+      {
+        "title": "our pricing",
+        "to": "/pages/our-pricing"
+      },
+      {
+        "title": "our testimonials",
+        "to": "/pages/our-testimonials"
+      },
+      {
+        "title": "book appointment",
+        "to": "/pages/book-appointment"
+      },
+      {
+        "title": "404 Page",
+        "to": "/not-found"
+      },
+      {
+        "title": "FAQs",
+        "to": "/pages/faqs"
+      }
+    ]
+  },
+  {
+    "title": "Contact",
+    "to": "/contact"
+  }
+]

@@ -1,0 +1,61 @@
+/* Services */ 
+.services {
+  &.bg-white {
+    .services_link {
+      background-color: $surface;
+
+      &:hover {
+        .services_icon {
+          background-color: $orange;
+        }
+      }
+    }
+
+    .services_icon {
+      background-color: $surface;
+      border-color: $white;
+    }
+  }
+
+  &.style-three {
+    .services_link {
+      &:hover {
+        .services_info {
+          transform: translateY(-100%);
+        }
+      }
+    }
+  }
+
+  &.style-four {
+    .services {
+      &_card {
+        overflow: hidden;
+        clip-path: polygon(85% 0%, 100% 100%, 15% 100%, 0% 0%);
+        -webkit-clip-path: polygon(85% 0%, 100% 100%, 15% 100%, 0% 0%);
+      }
+
+      &_name {
+        transform: translateX(13%);
+      }
+    }
+  }
+
+  &_sidebar {
+    .tab_btn {
+      &.active {
+        color: $orange;
+      }
+    }
+  }
+
+  &_benefit {
+    &_item {
+      &:hover {
+        .services_benefit_icon {
+          animation: scaleAnimate 0.5s ease;
+        }
+      }
+    }
+  }
+}

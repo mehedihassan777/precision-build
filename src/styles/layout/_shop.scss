@@ -1,0 +1,147 @@
+/* shop */
+.shop {
+  &_product {
+    &_heading {
+      .form_checkbox {
+        .label {
+          &::before {
+            border-radius: 50%;
+          }
+        }
+
+        .checkbox:checked~.label::before {
+          border-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+.filter {
+  &_category {
+    .tab_btn {
+      &.active {
+        font-weight: 700;
+        color: $black;
+      }
+    }
+  }
+
+  &_brand {
+    .form_checkbox {
+      &:has(.checkbox:checked) {
+
+        .txt,
+        .quantity {
+          font-weight: 700;
+          color: $black;
+        }
+      }
+    }
+  }
+
+  &_rating {
+    .rating_item {
+      .radio_input:checked+label {
+
+        .star,
+        .quantity {
+          font-weight: 700;
+          color: $black;
+        }
+      }
+    }
+  }
+
+  &_type {
+    .tab_btn {
+      &.active {
+        background-color: $orange;
+        color: $white;
+
+        &::before {
+          border-color: $orange;
+        }
+      }
+    }
+  }
+}
+
+/* cart */
+.cart {
+  .tow-bar-block {
+    height: 4px;
+    padding: 10px 6px;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 100%;
+      height: 4px;
+      background-color: $variant2;
+    }
+
+    .progress-line {
+      position: absolute;
+      left: 0;
+      height: 4px;
+
+      &::before {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: -6px;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background-color: $orange;
+      }
+    }
+  }
+}
+
+/* checkout */
+.checkout {
+  .form_login {
+    visibility: hidden;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: all linear 0.4s;
+  }
+
+  .btn_form_login.active+.form_login {
+    visibility: visible;
+    max-height: 280px;
+    margin-top: 16px;
+    opacity: 1;
+  }
+
+  .payment {
+    &_item {
+      transition: all linear 0.4s;
+
+      &:has(.radio_input:checked) {
+        background-color: #EFF0F3;
+      }
+    }
+
+    &_infor {
+      visibility: hidden;
+      overflow: hidden;
+      max-height: 0;
+      opacity: 0;
+      transition: all linear 0.4s;
+    }
+
+    &_item:has(.radio_input:checked) .payment_infor {
+      visibility: visible;
+      max-height: 450px;
+      margin-top: 8px;
+      opacity: 1;
+    }
+  }
+}

@@ -1,0 +1,114 @@
+/* Slider */ 
+.slider {
+    .section_tit {
+        opacity: 0;
+
+        >span {
+            display: inline-block;
+            
+            span {
+                display: inline-block;
+                opacity: 0;
+                transform: translateY(20px);
+                transition: all 0.3s ease;
+    
+                &.show {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+        }
+    }
+
+    .section_tit_two,
+    .section_tit_three,
+    .section_desc,
+    &_btn_item {
+        opacity: .0001;
+        transform: translateY(40px);
+        transition-property: opacity, transform;
+        transition-duration: .7s;
+        transition-timing-function: ease;
+        transition-delay: calc(var(--i) * .1s);
+    }
+
+    &.style-three {
+        .section_tit_three,
+        .section_desc,
+        .slider_btn_item  {
+            transform: translateX(80px);
+        }
+    }
+
+    .swiper {
+        &-slide-active {
+            .section_tit {
+                opacity: 1;
+            }
+
+            .section_tit_two,
+            .section_tit_three,
+            .section_desc,
+            .slider_btn_item {
+                opacity: 1;
+                transform: translate(0);
+            }
+        }
+
+        &-button {
+            &-prev,
+            &-next {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: absolute;
+                top: 50%;
+                z-index: 2;
+                transform: translateY(-50%);
+                width: 3.25rem;
+                height: 4.75rem;
+                background-color: rgba(255, 255, 255, 0.3);
+                transition: background-color .3s ease;
+
+                &::after {
+                    font-size: 18px;
+                    color: $white;
+                }
+                
+                @media (min-width: 1600px) {
+                    background-color: rgba(255, 255, 255, 0.1);
+                }
+
+                @media (min-width: 1024px) {
+                    &:hover {
+                        background-color: rgba(255, 255, 255, 0.8);
+
+                        &::after {
+                            color: $black;
+                        }
+                    }
+                }
+            }
+
+            &-prev {
+                left: 16px;
+                
+                @media (min-width: 1600px) {
+                    left: 2.5rem;
+                }
+            }
+
+            &-next {
+                right: 16px;
+                
+                @media (min-width: 1600px) {
+                    right: 2.5rem;
+                }
+            }
+        }
+
+        &-pagination {
+            bottom: 28px !important;
+        }
+    }
+}

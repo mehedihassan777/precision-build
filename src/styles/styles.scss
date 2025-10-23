@@ -1,0 +1,39 @@
+/* third party library styles */
+@import '~react-calendar/dist/Calendar.css';
+@import "~slick-carousel/slick/slick.css";
+@import '~react-tabs/style/react-tabs.css';
+@import '~react-toastify/dist/ReactToastify.css';
+
+/* project styles */
+@import url('./icons/style.css');
+@import './common/variables';
+@import './common/mixins';
+@import './common/reset';
+@import './common/globals';
+@import './common/loading';
+
+@import './layout/about';
+@import './layout/banner';
+@import './layout/blog';
+@import './layout/calendar';
+@import './layout/cta';
+@import './layout/custom_swiper';
+@import './layout/custom_slick';
+@import './layout/faqs';
+@import './layout/footer';
+@import './layout/header';
+@import './layout/menu_tab';
+@import './layout/modal';
+@import './layout/pagination';
+@import './layout/process';
+@import './layout/project';
+@import './layout/services';
+@import './layout/shop';
+@import './layout/slider';
+@import './layout/testimonials';
+@import './layout/landing';
+
+// Tailwindcss
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

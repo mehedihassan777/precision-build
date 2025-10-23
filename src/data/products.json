@@ -1,0 +1,503 @@
+[
+  {
+    "id": "1",
+    "category": "Plumber",
+    "name": "Dewalt 20V MAX XR Impact Driver, Brushless, 3-Speed, Bare Tool Only",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/1.jpg",
+    "images": [
+      "/images/products/detail/1.jpg",
+      "/images/products/detail/2.jpg",
+      "/images/products/detail/3.jpg",
+      "/images/products/detail/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "2",
+    "category": "Hand Tools",
+    "name": "Bosch Professional GSB 18V-50 Cordless Impact Drill, Brushless Motor, 2-Speed, Compact Design",
+    "rate": 5,
+    "originPrice": 52,
+    "price": 52,
+    "new": true,
+    "brand": "Estwing",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/2.jpg",
+    "images": [
+      "/images/products/2.jpg",
+      "/images/products/3.jpg",
+      "/images/products/8.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "3",
+    "category": "Electrical",
+    "name": "Makita XT505 Cordless Combo Kit, 18V LXT Lithium-Ion, 5-Tool Set",
+    "rate": 4,
+    "originPrice": 75,
+    "price": 59,
+    "brand": "Irwin",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/3.jpg",
+    "images": [
+      "/images/products/3.jpg",
+      "/images/products/6.jpg",
+      "/images/products/5.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "4",
+    "category": "Clean Up",
+    "name": "Milwaukee M18 FUEL Cordless Oscillating Multi-Tool, Brushless, Variable Speed",
+    "rate": 5,
+    "originPrice": 65,
+    "price": 65,
+    "brand": "Klein",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/4.jpg",
+    "images": [
+      "/images/products/4.jpg",
+      "/images/products/2.jpg",
+      "/images/products/3.jpg",
+      "/images/products/5.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "5",
+    "category": "Drills",
+    "name": "Stanley FatMax Anti-Vibe Hammer, 20 oz, Fiberglass Handle",
+    "rate": 4,
+    "originPrice": 64,
+    "price": 64,
+    "new": true,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/5.jpg",
+    "images": [
+      "/images/products/5.jpg",
+      "/images/products/4.jpg",
+      "/images/products/3.jpg",
+      "/images/products/2.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "6",
+    "category": "Welding Tools",
+    "name": "Ridgid R8656 Cordless Reciprocating Saw, 18V, Tool-Only, Ergonomic Grip",
+    "rate": 4,
+    "originPrice": 92,
+    "price": 62,
+    "brand": "Estwing",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/6.jpg",
+    "images": [
+      "/images/products/6.jpg",
+      "/images/products/4.jpg",
+      "/images/products/2.jpg",
+      "/images/products/9.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "7",
+    "category": "Paintings",
+    "name": "Klein Tools 80020 Electrician Tool Kit, 28-Piece, Pouch Included",
+    "rate": 5,
+    "originPrice": 95,
+    "price": 64,
+    "brand": "Irwin",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/7.jpg",
+    "images": [
+      "/images/products/7.jpg",
+      "/images/products/8.jpg",
+      "/images/products/9.jpg",
+      "/images/products/2.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "8",
+    "category": "Plumber",
+    "name": "Irwin Quick-Grip Bar Clamp, 24'', Heavy Duty, One-Handed Operation",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/8.jpg",
+    "images": [
+      "/images/products/8.jpg",
+      "/images/products/5.jpg",
+      "/images/products/3.jpg",
+      "/images/products/1.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "9",
+    "category": "Plumber",
+    "name": "Estwing E24A Sportsman’s Axe, 14-Inch, Forged Steel Construction",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Irwin",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/9.jpg",
+    "images": [
+      "/images/products/9.jpg",
+      "/images/products/8.jpg",
+      "/images/products/5.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "10",
+    "category": "Electrical",
+    "name": "Channellock 8WCB WideAzz Adjustable Wrench, 8-Inch, Chrome Finish",
+    "rate": 5,
+    "originPrice": 65,
+    "price": 65,
+    "new": true,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/2.jpg",
+    "images": [
+      "/images/products/2.jpg",
+      "/images/products/4.jpg",
+      "/images/products/6.jpg",
+      "/images/products/8.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "11",
+    "category": "Clean Up",
+    "name": "DeWalt FlexVolt 60V MAX Circular Saw, 7-1/4'', Brushless Motor, Bare Tool",
+    "rate": 4,
+    "originPrice": 87,
+    "price": 61,
+    "brand": "Klein",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/1.jpg",
+    "images": [
+      "/images/products/1.jpg",
+      "/images/products/3.jpg",
+      "/images/products/5.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "12",
+    "category": "Drills",
+    "name": "Milwaukee M18 FUEL Cordless Oscillating Multi-Tool, Brushless, Variable Speed",
+    "rate": 4,
+    "originPrice": 69,
+    "price": 59,
+    "brand": "Milwaukee",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/9.jpg",
+    "images": [
+      "/images/products/9.jpg",
+      "/images/products/7.jpg",
+      "/images/products/6.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "13",
+    "category": "Electrical",
+    "name": "Irwin Quick-Grip Bar Clamp, 24'', Heavy Duty, One-Handed Operation",
+    "rate": 5,
+    "originPrice": 64,
+    "price": 64,
+    "new": true,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/3.jpg",
+    "images": [
+      "/images/products/3.jpg",
+      "/images/products/4.jpg",
+      "/images/products/5.jpg",
+      "/images/products/8.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "14",
+    "category": "Paintings",
+    "name": "Estwing E24A Sportsman’s Axe, 14-Inch, Forged Steel Construction",
+    "rate": 5,
+    "originPrice": 65,
+    "price": 49,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/4.jpg",
+    "images": [
+      "/images/products/4.jpg",
+      "/images/products/2.jpg",
+      "/images/products/1.jpg",
+      "/images/products/3.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "15",
+    "category": "Plumber",
+    "name": "Milwaukee M18 FUEL Cordless Oscillating Multi-Tool, Brushless, Variable Speed",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/5.jpg",
+    "images": [
+      "/images/products/5.jpg",
+      "/images/products/6.jpg",
+      "/images/products/3.jpg",
+      "/images/products/2.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "16",
+    "category": "Hand Tools",
+    "name": "System Design Interview",
+    "rate": 5,
+    "originPrice": 76,
+    "price": 69,
+    "brand": "Irwin",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/6.jpg",
+    "images": [
+      "/images/products/6.jpg",
+      "/images/products/7.jpg",
+      "/images/products/8.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "17",
+    "category": "Electrical",
+    "name": "Python Crash Course 3rd",
+    "rate": 4,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Klein",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/7.jpg",
+    "images": [
+      "/images/products/7.jpg",
+      "/images/products/6.jpg",
+      "/images/products/4.jpg",
+      "/images/products/3.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "18",
+    "category": "Clean Up",
+    "name": "Milwaukee M18 FUEL Cordless Oscillating Multi-Tool, Brushless, Variable Speed",
+    "rate": 5,
+    "originPrice": 65,
+    "price": 65,
+    "new": true,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/8.jpg",
+    "images": [
+      "/images/products/8.jpg",
+      "/images/products/9.jpg",
+      "/images/products/3.jpg",
+      "/images/products/5.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "19",
+    "category": "Electrical",
+    "name": "Stanley FatMax Anti-Vibe Hammer, 20 oz, Fiberglass Handle",
+    "rate": 4,
+    "originPrice": 54,
+    "price": 46,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/9.jpg",
+    "images": [
+      "/images/products/9.jpg",
+      "/images/products/2.jpg",
+      "/images/products/3.jpg",
+      "/images/products/6.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "20",
+    "category": "Welding Tools",
+    "name": "Ridgid R8656 Cordless Reciprocating Saw, 18V, Tool-Only, Ergonomic Grip",
+    "rate": 5,
+    "originPrice": 43,
+    "price": 52,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/6.jpg",
+    "images": [
+      "/images/products/6.jpg",
+      "/images/products/5.jpg",
+      "/images/products/2.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "21",
+    "category": "Paintings",
+    "name": "Klein Tools 80020 Electrician Tool Kit, 28-Piece, Pouch Included",
+    "rate": 5,
+    "originPrice": 54,
+    "price": 42,
+    "brand": "Channellock",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/2.jpg",
+    "images": [
+      "/images/products/2.jpg",
+      "/images/products/3.jpg",
+      "/images/products/4.jpg",
+      "/images/products/7.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "22",
+    "category": "Electrical",
+    "name": "Irwin Quick-Grip Bar Clamp, 24'', Heavy Duty, One-Handed Operation",
+    "rate": 4,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Irwin",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/2.jpg",
+    "images": [
+      "/images/products/2.jpg",
+      "/images/products/5.jpg",
+      "/images/products/6.jpg",
+      "/images/products/9.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "23",
+    "category": "Welding Tools",
+    "name": "Estwing E24A Sportsman’s Axe, 14-Inch, Forged Steel Construction",
+    "rate": 5,
+    "originPrice": 59,
+    "price": 59,
+    "new": true,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/3.jpg",
+    "images": [
+      "/images/products/3.jpg",
+      "/images/products/2.jpg",
+      "/images/products/1.jpg",
+      "/images/products/4.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "24",
+    "category": "Drills",
+    "name": "Channellock 8WCB WideAzz Adjustable Wrench, 8-Inch, Chrome Finish",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Milwaukee",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/4.jpg",
+    "images": [
+      "/images/products/4.jpg",
+      "/images/products/2.jpg",
+      "/images/products/6.jpg",
+      "/images/products/9.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "25",
+    "category": "Welding Tools",
+    "name": "DeWalt FlexVolt 60V MAX Circular Saw, 7-1/4'', Brushless Motor, Bare Tool",
+    "rate": 4,
+    "originPrice": 58,
+    "price": 58,
+    "new": true,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/5.jpg",
+    "images": [
+      "/images/products/5.jpg",
+      "/images/products/4.jpg",
+      "/images/products/3.jpg",
+      "/images/products/6.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  },
+  {
+    "id": "26",
+    "category": "Paintings",
+    "name": "Milwaukee M18 FUEL Cordless Oscillating Multi-Tool, Brushless, Variable Speed",
+    "rate": 5,
+    "originPrice": 98,
+    "price": 68,
+    "brand": "Stanley",
+    "sku": "A515-56-36UT",
+    "quantity": 65,
+    "image": "/images/products/6.jpg",
+    "images": [
+      "/images/products/6.jpg",
+      "/images/products/5.jpg",
+      "/images/products/4.jpg",
+      "/images/products/3.jpg"
+    ],
+    "description": "The text works its way from the application layer down toward the physical layer, motivating students by exposing them to important concepts early in their study of networking."
+  }
+]

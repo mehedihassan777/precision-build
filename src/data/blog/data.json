@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Top 5 Essential Home Maintenance Tips for Every Season",
+    "description": "Discover how multi-factor authentication (MFA) is bolstering IT security and protecting sensitive data.",
+    "author": "Lindsay Weinberg",
+    "tag": "Performance Enhancement",
+    "category": "Maintenance",
+    "date": "January 12, 2025",
+    "thumbImage": "/images/blog/1.jpg",
+    "coverImage": "/images/blog/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "How to Detect and Fix Leaks Before They Cause Damage",
+    "description": "Dive into the world of digital transformation and learn how it's reshaping industries for selecting the right cloud service",
+    "author": "Lindsay Weinberg",
+    "tag": "Cloud Solutions",
+    "category": "Plumbing",
+    "date": "January 22, 2025",
+    "thumbImage": "/images/blog/2.jpg",
+    "coverImage": "/images/blog/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "5 Signs It’s Time to Service Your Air Conditioning System",
+    "description": "Weigh the advantages and disadvantages of out sourcing IT services versus maintaining",
+    "author": "Lindsay Weinberg",
+    "tag": "Application Development",
+    "category": "HVAC",
+    "date": "January 31, 2025",
+    "thumbImage": "/images/blog/3.jpg",
+    "coverImage": "/images/blog/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Unlocking the Power of Data Analytics for Your Business",
+    "description": "Discover how data analytics can provide actionable insights, drive informed decisions for selecting the right cloud service",
+    "author": "Lindsay Weinberg",
+    "tag": "E-commerce & Retail",
+    "category": "Company",
+    "date": "January 04, 2025",
+    "thumbImage": "/images/blog/blog2-1.jpg",
+    "coverImage": "/images/blog/blog2-1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Best Practices for Small Businesses",
+    "description": "Learn essential cybersecurity practices to protect your small business from cyber threats",
+    "author": "Lindsay Weinberg",
+    "tag": "IT Services",
+    "category": "Digital Agency",
+    "date": "January 12, 2025",
+    "thumbImage": "/images/blog/blog2-2.jpg",
+    "coverImage": "/images/blog/blog2-2.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Role of Cloud Computing in Modern Business",
+    "description": "Explore how cloud computing is revolutionizing business operations, reducing costs for selecting the right cloud service",
+    "author": "Lindsay Weinberg",
+    "tag": "Performance Enhancement",
+    "category": "IT Solution",
+    "date": "January 16, 2025",
+    "thumbImage": "/images/blog/blog2-3.jpg",
+    "coverImage": "/images/blog/blog2-3.jpg"
+  },
+  {
+    "id": 7,
+    "title": "How Regular AC Maintenance Can Save You Money",
+    "description": "Learn how consistent maintenance of your air conditioning system can help you easily maintain.",
+    "author": "Lindsay Weinberg",
+    "tag": "Cloud Solutions",
+    "category": "Maintenance",
+    "date": "January 22, 2025",
+    "thumbImage": "/images/blog/blog3-1.jpg",
+    "coverImage": "/images/blog/blog3-1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Common AC Problems and How to Fix Them",
+    "description": "Identify the most frequent air condition issues and find out how to improve your home",
+    "author": "Lindsay Weinberg",
+    "tag": "Application Development",
+    "category": "Installation",
+    "date": "January 24, 2025",
+    "thumbImage": "/images/blog/blog3-2.jpg",
+    "coverImage": "/images/blog/blog3-2.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Benefits of Solar Energy for Modern Homes",
+    "description": "Discover the benefits of solar energy, including reduced utility costs, increased home value, and a positive environmental impact.",
+    "author": "Lindsay Weinberg",
+    "tag": "E-commerce & Retail",
+    "category": "Solar Energy",
+    "date": "January 26, 2025",
+    "thumbImage": "/images/blog/blog4-1.jpg",
+    "coverImage": "/images/blog/blog4-1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Data Backup and Recovery: Ensuring Business Continuity",
+    "description": "Delve into the importance of data backup and recovery strategies to safeguard",
+    "author": "Lindsay Weinberg",
+    "tag": "IT Services",
+    "category": "IT Solution",
+    "date": "January 28, 2025",
+    "thumbImage": "/images/blog/10.jpg",
+    "coverImage": "/images/blog/10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Customer Retention Strategies for a Subscription-Based Service",
+    "description": "Dive into the world of digital transformation and learn how it's reshaping industries",
+    "author": "Lindsay Weinberg",
+    "tag": "Performance Enhancement",
+    "category": "Career",
+    "date": "March 10, 2025",
+    "thumbImage": "/images/blog/11.jpg",
+    "coverImage": "/images/blog/11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Overhauling IT Infrastructure for a Manufacturing Company Journey",
+    "description": "Discover how data analytics can provide actionable insights, drive informed decisions",
+    "author": "Lindsay Weinberg",
+    "tag": "Cloud Solutions",
+    "category": "Company",
+    "date": "March 12, 2025",
+    "thumbImage": "/images/blog/12.jpg",
+    "coverImage": "/images/blog/12.jpg"
+  }
+]

@@ -1,0 +1,112 @@
+/* TAB */
+.menu_tab {
+    position: relative;
+    overflow-x: auto;
+    max-width: 100%;
+
+    &.overflow-unset {
+        overflow: unset;
+    }
+
+    &.max-w-none {
+        max-width: none;
+    }
+
+    &.style-red {
+        .tab_btn_border {
+            &.active {
+                border-color: $orange;
+            }
+        }
+    }
+}
+
+.tab_btn {
+    white-space: nowrap;
+    
+    &_before {
+        &.active {
+            &::before {
+                width: 100%;
+            }
+        }
+    }
+
+    &_fill {
+        &.active {
+            border-color: $black;
+            background-color: $black;
+            color: $white;
+        }
+
+        &_orange {
+            &.active {
+                border-color: $orange;
+                background-color: $orange;
+                color: $white;
+            }
+        }
+    }
+
+    &_bg {
+        &.active {
+            background-color: $surface;
+        }
+    }
+
+    &_border {
+        &.active {
+            border-color: $orange;
+        }
+    }
+
+    &_txt_black {
+        &.active {
+            color: $black;
+        }
+    }
+}
+
+.tab_panel {
+    display: none;
+    position: relative;
+
+    &.active,
+    &[aria-hidden="false"] {
+        display: block;
+    }
+
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        opacity: 0;
+        pointer-events: none;
+        transition: all .3s ease;
+    }
+
+    &::before {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(255, 255, 255, 0.7);
+    }
+
+    &::after {
+        top: 50%;
+        left: 50%;
+        width: 30px;
+        height: 30px;
+        background: url('/images/other/loading.gif') center center / contain no-repeat;
+        transform: translate(-50%, -50%);
+    }
+
+    &.loading {
+        &::before,
+        &::after {
+            z-index: 1;
+            opacity: 1;
+        }
+    }
+}

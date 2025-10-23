@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "Guy Hawkins",
+    "address": "New York, NY.",
+    "rate": 5,
+    "image": "/images/testimonial/1.jpg",
+    "description": "“Excellent electrical work done at our home. The technicians were thorough, punctual, and left the place spotless. The team’s attention to detail was truly impressive. The plumbers arrived on time, diagnosed the issue quickly”",
+    "listReply": [
+      {
+        "replyId": 5,
+        "rate": 4
+      },
+      {
+        "replyId": 3,
+        "rate": 5
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Leonardo Capio",
+    "address": "Madrid, Spain",
+    "rate": 5,
+    "image": "/images/testimonial/2.jpg",
+    "description": "“Outstanding plumbing service! The plumbers arrived on time, diagnosed the issue quickly, and provided a clear explanation of the work needed. The entire experience was professional and hassle-free, and our plumbing has been perfect ever since.”",
+    "listReply": []
+  },
+  {
+    "id": "3",
+    "name": "Peter Parker",
+    "address": "California, USA",
+    "rate": 4,
+    "image": "/images/testimonial/3.jpg",
+    "description": "“The HVAC repair team did an amazing job! They were efficient, courteous, and ensured everything was working perfectly before leaving. It’s refreshing to see such dedication to quality and customer satisfaction.”",
+    "listReply": [
+      {
+        "replyId": 8,
+        "rate": 5
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Christina Shara",
+    "address": "Toronto, Canada",
+    "rate": 4,
+    "image": "/images/testimonial/2.jpg",
+    "description": "“Outstanding plumbing service! The plumbers arrived on time, diagnosed the issue quickly, and provided a clear explanation of the work needed. The entire experience was professional and hassle-free, and our plumbing has been perfect ever since.”",
+    "listReply": [
+      {
+        "replyId": 6,
+        "rate": 5
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "David Pablo",
+    "address": "Paris, France",
+    "rate": 4,
+    "image": "/images/testimonial/3.jpg",
+    "description": "“The HVAC repair team did an amazing job! They were efficient, courteous, and ensured everything was working perfectly before leaving. It’s refreshing to see such dedication to quality and customer satisfaction.”",
+    "listReply": [
+      {
+        "replyId": 2,
+        "rate": 5
+      },
+      {
+        "replyId": 9,
+        "rate": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+/* Slick */
+.slick-dots {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative !important;
+    bottom: unset !important;
+    margin-top: 40px !important;
+    padding-bottom: 0;
+
+    li {
+        flex-shrink: 0;
+        position: relative;
+        border: none;
+        width: 16px !important;
+        height: 16px !important;
+        border-radius: 50%;
+        background-color: transparent;
+        cursor: pointer;
+
+        button {
+            display: flex !important;
+            align-items: center;
+            justify-content: center;
+            width: 100% !important;
+            height: 100% !important;
+
+            &::before {
+                top: 50% !important;
+                left: 50% !important;
+                transform: translate(-50%, -50%);
+                width: 8px !important;
+                height: 8px !important;
+                border: 1px solid $black;
+                border-radius: 50%;
+                background-color: $black;
+                transition: 0.5s;
+                content: "" !important;
+            }
+        }
+
+        &.slick-active {
+            border: 1px solid $black;
+            background-color: #fff;
+
+            &::after {
+                background-color: $black;
+                border: 1px solid $black;
+            }
+        }
+    }
+}

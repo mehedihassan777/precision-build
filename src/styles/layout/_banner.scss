@@ -1,0 +1,15 @@
+/* banner */
+.banner {
+  overflow: hidden;
+
+  .heading2 {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: $black;
+    color: $white;
+    opacity: 0.4;
+  }
+
+  .rfm-marquee-container {
+    overflow: hidden;
+  }
+}

@@ -1,0 +1,193 @@
+/* header menu */ 
+.menu {
+    &_item {
+        &:hover {
+            .has_line {
+                &::before {
+                    width: 100%;
+                }
+            }
+            .menu_sub {
+                visibility: visible;
+                opacity: 1;
+                pointer-events: all;
+                transform: translateY(0);
+            }
+        }
+
+        &:nth-child(2) {
+            .services_link {
+                &.active {
+                    background-color: rgba($color: $orange, $alpha: 0.1);
+
+                    .services_tit {
+                        color: $orange;
+                    }
+                }
+            }
+        }
+    }
+
+    &_sub {
+        &_nav {
+            overflow: hidden;
+            max-height: 0;
+            transition: max-height .6s linear;
+        }
+
+        &_link {
+            &.active {
+                color: $orange;
+            }
+        }
+    }
+
+    &_link {
+        .ph {
+            transition: transform .4s ease .1s;
+        }
+
+        &.active {
+            .ph {
+                transform: rotate(-180deg);
+            }
+        }
+    }
+
+    &_link.active + .menu_sub_nav {
+        max-height: 400px;
+    }
+
+    &.style-blue {
+        .menu {
+            &_link {
+                color: $white;
+
+                .has_line {
+                    &::before {
+                        background-color: $blue;
+                    }
+                }
+
+                &_mo {
+                    color: $black;
+                }
+            }
+
+            &_sub_link {
+                &:hover {
+                    background-color: rgba($color: $blue, $alpha: 0.1);
+                    color: $blue;
+                }
+
+                &.active {
+                    color: $blue;
+                }
+            }
+        }
+
+        .services_link {
+            &:hover {
+                background-color: rgba($color: $blue, $alpha: 0.1);
+                border-color: $blue;
+
+                .services_icon,
+                .services_tit {
+                    color: $blue;
+                }
+            }
+        }
+    }
+
+    &_icons {
+        &.style-two {
+            color: $white;
+
+            .cart_quantity,
+            .wishlist_quantity {
+                background-color: $white;
+                color: $black;
+            }
+        }
+    }
+
+    &.style-yellow {
+        .menu {
+            &_link {
+                .has_line {
+                    &::before {
+                        background-color: $yellow;
+                    }
+                }
+            }
+
+            &_sub_link {
+                &:hover {
+                    background-color: rgba($color: $yellow, $alpha: 0.1);
+                    color: $yellow;
+                }
+
+                &.active {
+                    color: $yellow;
+                }
+            }
+        }
+
+        .services_link {
+            &:hover {
+                background-color: rgba($color: $yellow, $alpha: 0.1);
+                border-color: $yellow;
+
+                .services_icon,
+                .services_tit {
+                    color: $yellow;
+                }
+            }
+        }
+    }
+
+    &.style-red {
+        .menu {
+            &_link {
+                color: $white;
+
+                .has_line {
+                    &::before {
+                        background-color: $red;
+                    }
+                }
+
+                &_mo {
+                    color: $black;
+                }
+            }
+
+            &_sub_mega {
+                top: 6.25rem;
+            }
+
+            &_sub_link {
+                &:hover {
+                    background-color: rgba($color: $red, $alpha: 0.1);
+                    color: $red;
+                }
+
+                &.active {
+                    color: $red;
+                }
+            }
+        }
+
+        .services_link {
+            &:hover {
+                background-color: rgba($color: $red, $alpha: 0.1);
+                border-color: $red;
+
+                .services_icon,
+                .services_tit {
+                    color: $red;
+                }
+            }
+        }
+    }
+}

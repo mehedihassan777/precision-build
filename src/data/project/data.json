@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "icon": "icon-wrench-house",
+        "image": "/images/projects/projects1.jpg",
+        "title": "Office Building Water Supply",
+        "category": "Drain Cleaning",
+        "desc": "Transform your home with our professional renovation services. Whether it's a kitchen remodel, bathroom upgrade, or a complete home makeover, we bring creativity and expertise to every project."
+    },
+    {
+        "id": "2",
+        "icon": "icon-electrical",
+        "image": "/images/projects/projects2.jpg",
+        "title": "High-Rise Apartment Complex",
+        "category": "Pipe Installation",
+        "desc": "Our licensed electricians provide safe, reliable electrical services, including installations, repairs, upgrades, and full system troubleshooting to ensure your home's electrical safety."
+    },
+    {
+        "id": "3",
+        "icon": "icon-pipe",
+        "image": "/images/projects/projects3.jpg",
+        "title": "Commercial Construction Project",
+        "category": "Foundation Work",
+        "desc": "From fixing leaks to installing new fixtures, our experienced plumbers handle all types of plumbing repairs and installations. We ensure efficient and long-lasting solutions for your home."
+    },
+    {
+        "id": "4",
+        "icon": "icon-air",
+        "image": "/images/projects/projects4.jpg",
+        "title": "University Science Laboratory",
+        "category": "Tap Replacement",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "5",
+        "icon": "icon-paint",
+        "image": "/images/projects/projects3.jpg",
+        "title": "High-Rise Apartment Complex",
+        "category": "Pipe Installation",
+        "desc": "Refresh your home with our professional painting and drywall services, delivering high-quality finishes for both interiors and exteriors, tailored to your design preferences and style."
+    },
+    {
+        "id": "6",
+        "icon": "icon-roof",
+        "image": "/images/projects/projects2.jpg",
+        "title": "Office Building Water Supply",
+        "category": "Drain Cleaning",
+        "desc": "Enhance your home's protection and curb appeal with our expert roofing services, including new installations, leak repairs, replacements, and inspections to keep your roof in top condition."
+    },
+    {
+        "id": "7",
+        "icon": "icon-pipe-leak",
+        "image": "/images/projects/projects1.jpg",
+        "title": "High-Rise Apartment Complex",
+        "category": "Pipe Installation",
+        "desc": "Transform your home with our professional renovation services. Whether it's a kitchen remodel, bathroom upgrade, or a complete home makeover, we bring creativity and expertise to every project."
+    },
+    {
+        "id": "8",
+        "icon": "icon-pipe-oval",
+        "image": "/images/projects/projects4.jpg",
+        "title": "Commercial Construction Project",
+        "category": "Foundation Work",
+        "desc": "Our licensed electricians provide safe, reliable electrical services, including installations, repairs, upgrades, and full system troubleshooting to ensure your home's electrical safety."
+    },
+    {
+        "id": "9",
+        "icon": "icon-spanner",
+        "image": "/images/projects/projects2.jpg",
+        "title": "University Science Laboratory",
+        "category": "Tap Replacement",
+        "desc": "From fixing leaks to installing new fixtures, our experienced plumbers handle all types of plumbing repairs and installations. We ensure efficient and long-lasting solutions for your home."
+    },
+    {
+        "id": "10",
+        "icon": "icon-heater",
+        "image": "/images/projects/projects4.jpg",
+        "title": "High-Rise Apartment Complex",
+        "category": "Pipe Installation",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "11",
+        "icon": "icon-heater",
+        "image": "/images/projects/thumb/1.jpg",
+        "title": "Comprehensive HVAC",
+        "category": "HVAC Maintenance",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "12",
+        "icon": "icon-heater",
+        "image": "/images/projects/thumb/2.jpg",
+        "title": "Expert AC Installation",
+        "category": "AC Installation",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "13",
+        "icon": "icon-heater",
+        "image": "/images/projects/thumb/3.jpg",
+        "title": "Quality Heating Repair",
+        "category": "Heating Repair",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "14",
+        "icon": "icon-heater",
+        "image": "/images/projects/thumb/4.jpg",
+        "title": "Prompt Emergency Repair",
+        "category": "Emergency Repair",
+        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions to keep your home cool in summer, warm in winter."
+    },
+    {
+        "id": "15",
+        "icon": "icon-heater",
+        "image": "/images/projects/projects4-1.jpg",
+        "title": "Solar Panel Installation",
+        "category": "Solar Solutions",
+        "desc": "Embrace green energy with professionally installed solar panels, offering sustainable, cost-effective power for homes and businesses alike."
+    },
+    {
+        "id": "16",
+        "icon": "icon-heater",
+        "image": "/images/projects/projects4-2.jpg",
+        "title": "Home Electrical Upgrades",
+        "category": "Home Repairs",
+        "desc": "Modernize your home with safer wiring, upgraded lighting, and optimized outlets. Our team handles each detail for a seamless experience."
+    },
+    {
+        "id": "17",
+        "icon": "icon-heater",
+        "image": "/images/projects/projects4-3.jpg",
+        "title": "Commercial Lighting Solutions",
+        "category": "Plumber",
+        "desc": "Brighten your business with customized, energy-saving lighting setups designed to enhance any office or retail environment."
+    },
+    {
+        "id": "18",
+        "icon": "icon-heater",
+        "image": "/images/projects/projects4-2.jpg",
+        "title": "Home Electrical Upgrades",
+        "category": "Home Repairs",
+        "desc": "Modernize your home with safer wiring, upgraded lighting, and optimized outlets. Our team handles each detail for a seamless experience."
+    }
+]
