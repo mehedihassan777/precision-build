@@ -95,7 +95,7 @@ export default function ShopSidebar() {
                     dispatch(setFilterRate(item));
                   }
                 }}
-                className="radio_input flex-shrink-0 relative w-4 h-4 border-orange rounded-full cursor-pointer"
+                className="radio_input flex-shrink-0 relative w-4 h-4 border-navy rounded-full cursor-pointer"
               />
               <label className="flex items-center justify-between w-full cursor-pointer" htmlFor={"rate" + item}>
                 <span className="flex items-center gap-2">

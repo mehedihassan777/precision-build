@@ -23,7 +23,7 @@ export default function LayoutOne(props) {
               <li>
                 <Link href="tel:+1555678888" className="flex items-center gap-3 group">
                   <span
-                    className="flex items-center justify-center sm:w-14 w-12 sm:h-14 h-12 border-2 border-orange duration-400 group-hover:bg-orange group-hover:text-white">
+                    className="flex items-center justify-center sm:w-14 w-12 sm:h-14 h-12 border-2 border-navy duration-400 group-hover:bg-navy group-hover:text-white">
                     <Icon.PhoneCall className="sm:text-3xl text-2xl" />
                   </span>
                   <div className="max-lg:hidden">
@@ -35,7 +35,7 @@ export default function LayoutOne(props) {
               <li className="flex items-center gap-3">
                 <Link href="mailto:info@precisionbuild.com" className="flex items-center gap-3 group">
                   <span
-                    className="flex items-center justify-center sm:w-14 w-12 sm:h-14 h-12 border-2 border-orange duration-400 group-hover:bg-orange group-hover:text-white">
+                    className="flex items-center justify-center sm:w-14 w-12 sm:h-14 h-12 border-2 border-navy duration-400 group-hover:bg-navy group-hover:text-white">
                     <Icon.Envelope className="sm:text-3xl text-2xl" />
                   </span>
                   <div className="max-lg:hidden">

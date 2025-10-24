@@ -52,7 +52,7 @@ export default function Navigator({ className }) {
                       <Link
                         href={process.env.PUBLIC_URL + "/services/[slug]"}
                         as={process.env.PUBLIC_URL + "/services/" + convertToSlug(i.title)}
-                        className={`services_link flex gap-5 py-4 px-5 border border-outline hover:bg-orange hover:bg-opacity-10 hover:border-orange duration-300 group ${pathname === i.to ? 'active' : ''}`}
+                        className={`services_link flex gap-5 py-4 px-5 border border-outline hover:bg-navy hover:bg-opacity-10 hover:border-navy duration-300 group ${pathname === i.to ? 'active' : ''}`}
                       >
                         <span className={`services_icon ${i.icon} flex-shrink-0 text-5xl duration-300 group-hover:text-orange`}></span>
                         <div className="services_info">

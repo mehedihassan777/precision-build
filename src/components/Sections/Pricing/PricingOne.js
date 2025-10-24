@@ -12,7 +12,7 @@ const PricingOne = ({className}) => {
                     repair needs, from quick fixes to large-scale renovations.</p>
                 <ul className="pricing_list grid xl:grid-cols-3 gap-7.5 w-full lg:mt-12 mt-9">
                     <li className="pricing_item animate" style={{ "--i": 1 }}>
-                        <div className="relative w-full p-6 border-2 border-outline bg-white duration-300 shadow-sm hover:border-orange">
+                        <div className="relative w-full p-6 border-2 border-outline bg-white duration-300 shadow-sm hover:border-navy">
                             <strong className="pricing_type heading5">Basic Plan</strong>
                             <h3 className="flex items-end mt-4">
                                 <span className="heading3">$25.00</span>
@@ -20,7 +20,7 @@ const PricingOne = ({className}) => {
                             </h3>
                             <p className="pricing_desc mt-4 text-variant1">Perfect for small fixes around the house, offering
                                 reliable solutions to keep your home in shape.</p>
-                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-orange bg-opacity-5">
+                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-navy bg-opacity-5">
                                 <li className="feature_item flex gap-2">
                                     <Icon.Check className="flex-shrink-0 text-2xl text-orange" />
                                     <span className="pricing_feature">Minor Repairs & Adjustments</span>
@@ -46,7 +46,7 @@ const PricingOne = ({className}) => {
                         </div>
                     </li>
                     <li className="pricing_item animate" style={{ "--i": 2 }}>
-                        <div className="relative w-full p-6 border-2 border-orange bg-white duration-300 shadow-sm">
+                        <div className="relative w-full p-6 border-2 border-navy bg-white duration-300 shadow-sm">
                             <span className="tag tag_fill absolute top-0 right-0">Popular</span>
                             <strong className="pricing_type heading5">Standard Plan</strong>
                             <h3 className="flex items-end mt-4">
@@ -55,7 +55,7 @@ const PricingOne = ({className}) => {
                             </h3>
                             <p className="pricing_desc mt-4 text-variant1">Ideal for mid-sized projects requiring a higher level of
                                 service and maintenance.</p>
-                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-orange bg-opacity-5">
+                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-navy bg-opacity-5">
                                 <li className="feature_item flex gap-2">
                                     <Icon.Check className="flex-shrink-0 text-2xl text-orange" />
                                     <span className="pricing_feature">Repairs, Installations & Maintenance</span>
@@ -81,7 +81,7 @@ const PricingOne = ({className}) => {
                         </div>
                     </li>
                     <li className="pricing_item animate" style={{ "--i": 3 }}>
-                        <div className="relative w-full p-6 border-2 border-outline bg-white duration-300 shadow-sm hover:border-orange">
+                        <div className="relative w-full p-6 border-2 border-outline bg-white duration-300 shadow-sm hover:border-navy">
                             <strong className="pricing_type heading5">Premium Plan</strong>
                             <h3 className="flex items-end mt-4">
                                 <span className="heading3">$65.00</span>
@@ -89,7 +89,7 @@ const PricingOne = ({className}) => {
                             </h3>
                             <p className="pricing_desc mt-4 text-variant1">Best for large-scale projects or homeowners seeking
                                 top-tier service and full support.</p>
-                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-orange bg-opacity-5">
+                            <ul className="feature_list flex flex-col gap-3 mt-6 p-6 bg-navy bg-opacity-5">
                                 <li className="feature_item flex gap-2">
                                     <Icon.Check className="flex-shrink-0 text-2xl text-orange" />
                                     <span className="pricing_feature">Full Home Renovations Installations</span>

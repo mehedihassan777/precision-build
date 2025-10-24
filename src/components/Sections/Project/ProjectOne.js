@@ -23,7 +23,7 @@ const ProjectOne = () => {
     return (
         <section className="section projects sm:py-25 py-15 bg-dark">
             <div className="container flex flex-col items-center">
-                <span className="section_tag tag bg-white animate">Our Projects</span>
+                <span className="section_tag tag bg-surface border border-outline text-navy animate">Our Projects</span>
                 <h3 className="section_tit mt-4 heading3 text-white animate">Amazing Work Results</h3>
                 <p className="section_desc lg:mt-5 mt-3 body2 text-white text-center animate">
                     We pride ourselves on delivering consistent, high-quality services that you can depend on.

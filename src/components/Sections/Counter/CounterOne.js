@@ -35,9 +35,9 @@ const CounterOne = () => {
                             className="bg_img flex-shrink-0 md:absolute top-0 left-0 md:w-1/2 w-full md:h-full max-md:relative">
                             <Image width={3000} height={3000} src="/images/components/counter1.jpg" className="h-full object-cover animate animate_left" alt="Book Our Expert Handyman Today!" />
                                 <div className="banner_area animate animate_right" style={{"--i": 1}}>
-                                    <Link href="tel:+1555678888" className="banner_link flex items-center gap-4 absolute right-0 bottom-0 p-5 bg-dark text-white duration-400 group hover:bg-orange">
+                                    <Link href="tel:+1555678888" className="banner_link flex items-center gap-4 absolute right-0 bottom-0 p-5 bg-dark text-white duration-400 group hover:bg-navy">
                                         <span
-                                            className="icon inline-flex items-center justify-center sm:w-20 w-15 sm:h-20 h-15 rounded-full bg-orange duration-400 group-hover:bg-white group-hover:text-orange">
+                                            className="icon inline-flex items-center justify-center sm:w-20 w-15 sm:h-20 h-15 rounded-full bg-navy duration-400 group-hover:bg-white group-hover:text-navy">
                                             <Icon.PhoneCall weight="fill" className="sm:text-5xl text-3xl" />
                                         </span>
                                         <span>

@@ -74,7 +74,7 @@ const ProjectFour = ({ data, start, limit }) => {
             <div className="container">
                 <div className="heading flex max-lg:flex-col justify-center gap-7 gap-y-5">
                     <div className="lg:w-1/2 animate animate_right">
-                        <span className="section_tag tag bg-red">Our Projects</span>
+                        <span className="section_tag tag bg-surface">Our Projects</span>
                         <h3 className="section_tit mt-4 heading3">Amazing Work Results</h3>
                     </div>
                     <div className="lg:w-1/2 animate animate_left">

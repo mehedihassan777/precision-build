@@ -55,7 +55,7 @@ const AboutOne = () => {
                         </li>
                         <li className="animate" style={{"--i": 2}}>
                             <a href="tel:+1555678888" className="flex items-center gap-3 group">
-                                <span className="flex items-center justify-center w-14 h-14 border-2 border-orange duration-400 group-hover:bg-orange group-hover:text-white">
+                                <span className="flex items-center justify-center w-14 h-14 border-2 border-navy duration-400 group-hover:bg-navy group-hover:text-white">
                                     <Icon.PhoneCall className="text-3xl" />
                                 </span>
                                 <div>

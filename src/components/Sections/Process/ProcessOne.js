@@ -28,7 +28,7 @@ const ProcessOne = ({ data }) => {
                     <div className="flex-shrink-0 lg:w-5/12">
                         <div className="process_img flex items-center justify-center relative animate">
                             <button
-                                className="btn_play inline-flex items-center justify-center absolute w-18 h-18 rounded-full bg-white duration-400 hover:bg-orange hover:text-white"
+                                className="btn_play inline-flex items-center justify-center absolute w-18 h-18 rounded-full bg-white duration-400 hover:bg-navy hover:text-white"
                                 onClick={() => setOpenVideo(true)}
                             >
                                 <Icon.Play weight="fill" className="text-3xl" />
@@ -53,7 +53,7 @@ const ProcessOne = ({ data }) => {
                                 <span
                                     className={`process_icon flex flex-shrink-0 items-center justify-center relative sm:w-25 w-20 sm:h-25 h-20 border border-outline rounded-full bg-white duration-400 group-hover:bg-black group-hover:text-white ${item.id <= activeIndex ? 'active' : ''}`}>
                                     <span className={`${item.icon} sm:text-5xl text-4xl`}></span>
-                                    <span className="process_ordinal flex items-center justify-center absolute sm:top-0 -top-2 sm:right-0 -right-2 w-[26px] h-[26px] border-[3px] border-white rounded-full bg-orange text-white txt-button">{item.id}</span>
+                                    <span className="process_ordinal flex items-center justify-center absolute sm:top-0 -top-2 sm:right-0 -right-2 w-[26px] h-[26px] border-[3px] border-white rounded-full bg-navy text-white txt-button">{item.id}</span>
                                 </span>
                                 <div className="process_info pb-12 border-b border-outline">
                                     <strong className="heading5 line-clamp-1">{item.title}</strong>

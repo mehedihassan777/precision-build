@@ -15,7 +15,7 @@ const FormRequestThree = ({className}) => {
                 <div className="form_request_banner cta relative">
                     <div className="container flex flex-col items-center relative sm:pt-25 pt-15 pb-[16.25rem] text-white">
                         <button 
-                            className={`btn_play inline-flex items-center justify-center w-18 h-18 rounded-full ${className === 'style-three' ? 'bg-yellow' : 'bg-orange'} duration-400 hover:bg-white hover:text-black`} 
+                            className={`btn_play inline-flex items-center justify-center w-18 h-18 rounded-full ${className === 'style-three' ? 'bg-yellow' : 'bg-navy'} duration-400 hover:bg-white hover:text-black`} 
                             onClick={() => setOpenVideo(true)}
                         >
                             <Icon.Play weight='fill' className="text-3xl" />

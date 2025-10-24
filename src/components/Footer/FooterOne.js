@@ -92,7 +92,7 @@ export default function FooterOne({className, color}) {
                 <input type="email" placeholder='Enter your e-mail'
                   className='caption1 w-full h-14 px-6 border border-white border-opacity-10 duration-300 focus:border-white'
                   required />
-                <button type="submit" className={`btn flex-shrink-0 h-fit bg-${color} hover:bg-white`}>Subscribe</button>
+                <button type="submit" className="btn flex-shrink-0 h-fit bg-[#C15B2A] hover:bg-white">Subscribe</button>
               </form>
               <p className="mt-4 text-variant2">Sign up to get the latest news and events—we promise no spam.</p>
             </div>
@@ -176,12 +176,12 @@ export default function FooterOne({className, color}) {
               <strong className="footer_nav_heading txt-label">Get a Free Estimate Today!</strong>
               <p className="footer_nav_desc mt-3 text-variant2">Call us for a cost estimate over the phone</p>
               <h5 className="footer_nav_contact heading5 mt-4">512-524-6935</h5>
-              <Link href="/pages/book-appointment" className={`btn mt-4 bg-${color} hover:bg-white`}>Request an estimate</Link>
+              <Link href="/pages/book-appointment" className="btn mt-4 bg-[#C15B2A] hover:bg-white">Request an estimate</Link>
             </div>
           </div>
         </div>
         <div className="footer_bottom flex items-center justify-between max-sm:flex-col gap-2 w-full mt-5 py-4 border-t border-white border-opacity-10">
-          <p className="copyright text-variant2 text-center">Copyright © 2025 Precision Design & Build By <Link href="https://avitex.vn/" className="text-white hover:underline" target="_blank">Avitex</Link>. <br className="xs:hidden" />All rights reserved</p>
+          <p className="copyright text-variant2 text-center">Copyright © 2025 Precision Design & Build By <Link href="https://Exito.vn/" className="text-white hover:underline" target="_blank">Exito</Link>. <br className="xs:hidden" />All rights reserved</p>
           <div className="footer_bottom_link flex items-center gap-2.5">
             <Link className="text-variant2 hover:underline hover:text-white" href="#!">Terms Of Services</Link>
             <span className="text-white opacity-10">|</span>

@@ -71,19 +71,19 @@ const DetailReview = function ({ data }) {
                 </div>
                 <div className="line w-full flex flex-col gap-4">
                   <div className="relative w-full h-3 rounded-sm bg-outline overflow-hidden">
-                    <div className="percent absolute top-0 left-0 h-full w-[60%] bg-orange"></div>
+                    <div className="percent absolute top-0 left-0 h-full w-[60%] bg-navy"></div>
                   </div>
                   <div className="relative w-full h-3 rounded-sm bg-outline overflow-hidden">
-                    <div className="percent absolute top-0 left-0 h-full w-[20%] bg-orange"></div>
+                    <div className="percent absolute top-0 left-0 h-full w-[20%] bg-navy"></div>
                   </div>
                   <div className="relative w-full h-3 rounded-sm bg-outline overflow-hidden">
-                    <div className="percent absolute top-0 left-0 h-full w-[10%] bg-orange"></div>
+                    <div className="percent absolute top-0 left-0 h-full w-[10%] bg-navy"></div>
                   </div>
                   <div className="relative w-full h-3 rounded-sm bg-outline overflow-hidden">
-                    <div className="percent absolute top-0 left-0 h-full w-[7%] bg-orange"></div>
+                    <div className="percent absolute top-0 left-0 h-full w-[7%] bg-navy"></div>
                   </div>
                   <div className="relative w-full h-3 rounded-sm bg-outline overflow-hidden">
-                    <div className="percent absolute top-0 left-0 h-full w-[3%] bg-orange"></div>
+                    <div className="percent absolute top-0 left-0 h-full w-[3%] bg-navy"></div>
                   </div>
                 </div>
                 <div className="percent flex flex-col items-start justify-start md:gap-1.5 gap-0.5 -mt-0.5">
@@ -204,7 +204,7 @@ const DetailReview = function ({ data }) {
                     </div>
                     <div className="w-full">
                       <div className="body3 pb-3">Email</div>
-                      <input className="border border-outline p-4 w-full" type="email" placeholder="avitex@mail.com" required />
+                      <input className="border border-outline p-4 w-full" type="email" placeholder="Exito@mail.com" required />
                     </div>
                     <div className="w-full sm:col-span-2">
                       <div className="body3 pb-3">Comment</div>

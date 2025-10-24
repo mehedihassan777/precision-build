@@ -191,7 +191,7 @@ const CartLayout = () => {
                                         {moneyForFreeship - totalCart > 0 ?
                                             (
                                                 <input
-                                                    className='radio_input flex-shrink-0 relative w-4 h-4 border-orange rounded-full cursor-pointer'
+                                                    className='radio_input flex-shrink-0 relative w-4 h-4 border-navy rounded-full cursor-pointer'
                                                     id="shipping"
                                                     type="radio"
                                                     name="ship"
@@ -199,7 +199,7 @@ const CartLayout = () => {
                                                 />
                                             ) : (
                                                 <input
-                                                    className='radio_input flex-shrink-0 relative w-4 h-4 border-orange rounded-full cursor-pointer'
+                                                    className='radio_input flex-shrink-0 relative w-4 h-4 border-navy rounded-full cursor-pointer'
                                                     id="shipping"
                                                     type="radio"
                                                     name="ship"
@@ -212,7 +212,7 @@ const CartLayout = () => {
                                     </div>
                                     <div className="form_radio ship_item flex items-center gap-2">
                                         <input
-                                            className='radio_input flex-shrink-0 relative w-4 h-4 border-orange rounded-full cursor-pointer'
+                                            className='radio_input flex-shrink-0 relative w-4 h-4 border-navy rounded-full cursor-pointer'
                                             id="local"
                                             type="radio"
                                             name="ship"
@@ -224,7 +224,7 @@ const CartLayout = () => {
                                     </div>
                                     <div className="form_radio ship_item flex items-center gap-2">
                                         <input
-                                            className='radio_input flex-shrink-0 relative w-4 h-4 border-orange rounded-full cursor-pointer'
+                                            className='radio_input flex-shrink-0 relative w-4 h-4 border-navy rounded-full cursor-pointer'
                                             id="flat"
                                             type="radio"
                                             name="ship"

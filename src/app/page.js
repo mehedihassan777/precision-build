@@ -35,7 +35,7 @@ export default function home() {
         <TestimonialOne data={testimonialData} />
         <PricingOne className={'bg-surface'} />
         <TeamOne data={teamData} />
-        <BlogOne data={blogData} start={0} limit={3} />
+        {/* <BlogOne data={blogData} start={0} limit={3} /> */}
         <BrandOne />
       </LayoutOne>
     </>

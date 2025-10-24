@@ -47,7 +47,7 @@ const FormAppointment = () => {
           className={`time_picker fixed top-1/2 left-1/2 z-[100] -translate-x-1/2 -translate-y-1/2 md:w-[700px] w-[90vw] bg-white ${showDatePicker === false ? 'invisible opacity-0' : 'visible opacity-100'}`}
           onClick={(e) => e.stopPropagation()}
         >
-          <h5 className="heading5 py-3.5 bg-orange text-white text-center">Available Appointments</h5>
+          <h5 className="heading5 py-3.5 bg-navy text-white text-center">Available Appointments</h5>
           <ul className="time_slots flex flex-col gap-3 p-3">
             <li className="time_slots_item flex items-center justify-between p-2 bg-white">
               <span>9:00 AM - 10:00 AM</span>
@@ -118,7 +118,7 @@ const FormAppointment = () => {
           className={`popup_booking fixed top-1/2 left-1/2 z-[100] -translate-x-1/2 -translate-y-1/2 md:w-[690px] w-[90vw] h-fit bg-white shadow-lg ${showAppointment === false ? 'invisible opacity-0' : 'visible opacity-100'}`}
           onClick={(e) => e.stopPropagation()}
         >
-          <h5 className="heading5 py-3.5 bg-orange text-white text-center">Request An Appointment</h5>
+          <h5 className="heading5 py-3.5 bg-navy text-white text-center">Request An Appointment</h5>
           <div className="popup_content overflow-x-hidden max-h-[70vh] p-7">
             <h6 className="heading6">Date & Time</h6>
             <p className="mt-3">Please confirm that you would like to request the following appointment:</p>

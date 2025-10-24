@@ -8,8 +8,20 @@
     "to": "#!",
     "subMenu": [
       {
-        "title": "Renovation Services",
-        "to": "/services/renovation-services",
+        "title": "Kitchen Remodel",
+        "to": "/services/kitchen-remodel",
+        "desc": "Transform your home with our professional renovation services. Whether it’s a kitchen remodel, a bathroom upgrade, or a complete home makeover, our team brings your vision to life with precision and care.",
+        "icon": "icon-wrench-house"
+      },
+      {
+        "title": "Bathroom Remodel",
+        "to": "/services/bathroom-remodel",
+        "desc": "Transform your home with our professional renovation services. Whether it’s a kitchen remodel, a bathroom upgrade, or a complete home makeover, our team brings your vision to life with precision and care.",
+        "icon": "icon-wrench-house"
+      },
+      {
+        "title": "Home Remodel",
+        "to": "/services/home-remodel",
         "desc": "Transform your home with our professional renovation services. Whether it’s a kitchen remodel, a bathroom upgrade, or a complete home makeover, our team brings your vision to life with precision and care.",
         "icon": "icon-wrench-house"
       },
@@ -26,22 +38,10 @@
         "icon": "icon-pipe"
       },
       {
-        "title": "HVAC Services",
-        "to": "/services/hvac-services",
-        "desc": "Stay comfortable year-round with our HVAC installation, repair, and maintenance. We provide energy-efficient solutions tailored to your home’s needs, keeping your family comfortable in every season.",
-        "icon": "icon-air"
-      },
-      {
-        "title": "Painting and Drywall",
-        "to": "/services/painting-and-drywall",
+        "title": "Adu & Garage conversion",
+        "to": "/services/adu-&-garage-conversion",
         "desc": "Refresh your home with our professional painting and drywall services, delivering high-quality finishes that enhance your space’s aesthetic appeal and durability.",
         "icon": "icon-paint"
-      },
-      {
-        "title": "Roofing Services",
-        "to": "/services/roofing-services",
-        "desc": "Enhance your home’s protection and curb appeal with our expert roofing services, including new installations, repairs, and inspections to ensure long-lasting protection and beauty for your property.",
-        "icon": "icon-roof"
       }
     ]
   },
@@ -56,38 +56,6 @@
       {
         "title": "our services",
         "to": "/pages/our-services"
-      },
-      {
-        "title": "our projects 1",
-        "to": "/pages/our-projects1"
-      },
-      {
-        "title": "our projects 2",
-        "to": "/pages/our-projects2"
-      },
-      {
-        "title": "project details",
-        "to": "/pages/project-details"
-      },
-      {
-        "title": "our pricing",
-        "to": "/pages/our-pricing"
-      },
-      {
-        "title": "our testimonials",
-        "to": "/pages/our-testimonials"
-      },
-      {
-        "title": "book appointment",
-        "to": "/pages/book-appointment"
-      },
-      {
-        "title": "404 Page",
-        "to": "/not-found"
-      },
-      {
-        "title": "FAQs",
-        "to": "/pages/faqs"
       }
     ]
   },

@@ -14,7 +14,7 @@ const TeamOne = ({ data }) => {
             <div className="container">
                 <div className="heading flex max-lg:flex-col justify-center gap-y-5">
                     <div className="lg:w-1/2 animate animate_right">
-                        <span className="section_tag tag bg-white">Our teams</span>
+                        <span className="section_tag tag bg-surface">Our teams</span>
                         <h3 className="section_tit mt-4 heading3 text-white">Meet the Our Experts</h3>
                     </div>
                     <div className="lg:w-1/2 animate animate_left">
