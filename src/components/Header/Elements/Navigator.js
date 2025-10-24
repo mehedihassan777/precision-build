@@ -12,7 +12,7 @@ export default function Navigator({ className }) {
 
   function renderMenu() {
     return menuData.map((item, index) => {
-      if (item.title !== "Services" && item.title !== "Contact" && item.title !== "Home") {
+      if (item.title !== "Services" && item.subMenu?.length > 0) {
         return (
           <li className={`menu_item h-full relative`} key={index}>
             <Link href={process.env.PUBLIC_URL + item.to} className={`menu_link inline-flex items-center gap-1 h-full ${pathname.includes(`/${item.title.toLowerCase()}/`) || (item.title === "Home" && pathname === '/') ? 'active' : ''}`}>
@@ -68,7 +68,7 @@ export default function Navigator({ className }) {
           </li>
         );
       }
-      if (item.title === "Contact" || item.title === "Home") {
+      if (item.title === "Contact" || item.title === "Home" || item.title === "Gallery" || item.title === "Testimonials") {
         return (
           <li className={`menu_item h-full relative`} key={index}>
             <Link href={process.env.PUBLIC_URL + item.to} className={`menu_link inline-flex items-center gap-1 h-full ${pathname.includes(`/${item.title.toLowerCase()}`) ? 'active' : ''}`}>

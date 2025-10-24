@@ -46,33 +46,7 @@
     ]
   },
   {
-    "title": "Blog",
-    "to": "#!",
-    "subMenu": [
-      {
-        "title": "Blog default",
-        "to": "/blog/default"
-      },
-      {
-        "title": "Blog Grid",
-        "to": "/blog/grid"
-      },
-      {
-        "title": "Blog List",
-        "to": "/blog/list"
-      },
-      {
-        "title": "Blog Details 1",
-        "to": "/blog/detail1"
-      },
-      {
-        "title": "Blog Details 2",
-        "to": "/blog/detail2"
-      }
-    ]
-  },
-  {
-    "title": "Pages",
+    "title": "Our Story",
     "to": "#!",
     "subMenu": [
       {
@@ -116,6 +90,14 @@
         "to": "/pages/faqs"
       }
     ]
+  },
+  {
+    "title": "Gallery",
+    "to": "/pages/our-projects2"
+  },
+  {
+    "title": "Testimonials",
+    "to": "/pages/our-testimonials"
   },
   {
     "title": "Contact",
